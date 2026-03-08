@@ -1,4 +1,5 @@
 //Ejercicio 1: Calculadora de gastos de viaje
+
 // Constantes
 const transporte = 120000;
 const alojamiento = 200000;
